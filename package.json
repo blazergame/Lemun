@@ -19,7 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "expo": "^27.0.1",
+    "expo": "^33.0.5",
     "react": "16.8.6",
     "react-native": "~0.59.7",
     "react-native-swipeable-cards": "^1.1.23"
